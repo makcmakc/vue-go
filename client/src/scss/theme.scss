@@ -1,0 +1,16 @@
+/*
+$gr1: #52bf90;
+$gr2: #49ab81;
+$gr3: #419873;
+$gr4: #398564;
+$gr5: #317256;
+*/
+
+$theme-colors: (
+  /*"primary": #419873,*/
+  "primary": #3DB6D8,
+  "success": #64BFD8,
+  "info": #1EB9E4
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
